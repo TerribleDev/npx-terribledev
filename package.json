@@ -1,11 +1,11 @@
 {
   "name": "terribledev",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Personal npm card for Tommy Parnell (@terribledev)",
   "main": "index.html",
   "repository": {
     "type": "git",
-    "url": "https://github.com/terribledev/terribledev.git"
+    "url": "https://github.com/TerribleDev/npx-terribledev.git"
   },
   "scripts": {
     "prepare": "node src/htmlify",
