@@ -1,6 +1,6 @@
 {
   "name": "terribledev",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Personal npm card for Tommy Parnell (@terribledev)",
   "main": "index.html",
   "repository": {
@@ -49,7 +49,7 @@
       "npm": "terribledev",
       "github": "terribledev",
       "linkedin": "tommy-parnell-63a72224",
-      "web": "https://blog.terribledev.io",
+      "web": "https://blog.terrible.dev/",
       "work": "Sr. Software Engineer"
     },
     "data": [
