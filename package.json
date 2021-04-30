@@ -1,6 +1,6 @@
 {
   "name": "terribledev",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Personal npm card for Tommy Parnell (@terribledev)",
   "main": "index.html",
   "repository": {
@@ -29,7 +29,6 @@
   ],
   "author": "Tommy Parnell",
   "license": "ISC",
-  "dependencies": {},
   "devDependencies": {
     "@babel/core": "^7.2.2",
     "@babel/preset-env": "^7.2.3",
