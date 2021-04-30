@@ -1,6 +1,6 @@
 {
   "name": "terribledev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Personal npm card for Tommy Parnell (@terribledev)",
   "main": "index.html",
   "repository": {
@@ -85,6 +85,14 @@
         "label": "Web",
         "text": "<cyan>{{web}}</>",
         "when": "{{web}}"
+      },
+      {
+        "label": "Phone",
+        "text": "603.988.8441"
+      },
+      {
+        "label": "Email",
+        "text": "tommy@terribledev.io"
       },
       "",
       {
